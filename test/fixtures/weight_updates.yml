@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  weight: 1.5
+  date: 2024-08-10
+
+two:
+  user_id: 1
+  weight: 1.5
+  date: 2024-08-10
